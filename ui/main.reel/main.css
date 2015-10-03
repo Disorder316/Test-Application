@@ -1,3 +1,13 @@
 .Main {
-    background-color: black;
+    height:            100%;
+    width:             100%;
+    background-color:  black;
 }
+
+.header-v1 {
+    height: 60px;
+    width: 100%
+}
+
+
+
